@@ -1,0 +1,17 @@
+C:\Users\RemPeople\Desktop\.NET-CORE-MediatR-master\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\RemPeople\Desktop\.NET-CORE-MediatR-master\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\RemPeople\Desktop\.NET-CORE-MediatR-master\bin\Debug\netcoreapp2.1\CQRSApi.deps.json
+C:\Users\RemPeople\Desktop\.NET-CORE-MediatR-master\bin\Debug\netcoreapp2.1\CQRSApi.runtimeconfig.json
+C:\Users\RemPeople\Desktop\.NET-CORE-MediatR-master\bin\Debug\netcoreapp2.1\CQRSApi.runtimeconfig.dev.json
+C:\Users\RemPeople\Desktop\.NET-CORE-MediatR-master\bin\Debug\netcoreapp2.1\CQRSApi.dll
+C:\Users\RemPeople\Desktop\.NET-CORE-MediatR-master\bin\Debug\netcoreapp2.1\CQRSApi.pdb
+C:\Users\RemPeople\Desktop\.NET-CORE-MediatR-master\obj\Debug\netcoreapp2.1\CQRSApi.csprojAssemblyReference.cache
+C:\Users\RemPeople\Desktop\.NET-CORE-MediatR-master\obj\Debug\netcoreapp2.1\CQRSApi.AssemblyInfoInputs.cache
+C:\Users\RemPeople\Desktop\.NET-CORE-MediatR-master\obj\Debug\netcoreapp2.1\CQRSApi.AssemblyInfo.cs
+C:\Users\RemPeople\Desktop\.NET-CORE-MediatR-master\obj\Debug\netcoreapp2.1\CQRSApi.csproj.CoreCompileInputs.cache
+C:\Users\RemPeople\Desktop\.NET-CORE-MediatR-master\obj\Debug\netcoreapp2.1\CQRSApi.RazorAssemblyInfo.cache
+C:\Users\RemPeople\Desktop\.NET-CORE-MediatR-master\obj\Debug\netcoreapp2.1\CQRSApi.RazorAssemblyInfo.cs
+C:\Users\RemPeople\Desktop\.NET-CORE-MediatR-master\obj\Debug\netcoreapp2.1\CQRSApi.RazorTargetAssemblyInfo.cache
+C:\Users\RemPeople\Desktop\.NET-CORE-MediatR-master\obj\Debug\netcoreapp2.1\CQRSApi.dll
+C:\Users\RemPeople\Desktop\.NET-CORE-MediatR-master\obj\Debug\netcoreapp2.1\CQRSApi.pdb
+C:\Users\RemPeople\Desktop\.NET-CORE-MediatR-master\obj\Debug\netcoreapp2.1\CQRSApi.genruntimeconfig.cache
